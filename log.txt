@@ -8,4 +8,4 @@ added be the change project
 changed title of homepage
 centered the homepage text
 formatted mobile version
-fixed typo
+fixed a typo
