@@ -10,3 +10,4 @@ centered the homepage text
 formatted mobile version
 fixed a typo
 again
+fixed more mobile stuff
