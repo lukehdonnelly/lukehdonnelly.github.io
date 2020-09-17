@@ -21,7 +21,7 @@ body {
 	right: 0;
 	text-align: center;
 	margin: auto;                
-	font-size: 140%;
+	font-size: 75%;
 	color: #FFFFFF;
 	padding-top: 5;
 }
@@ -231,8 +231,8 @@ footer .footer_column p {
 	margin-right: 20px;
 }
 .padd{
-	padding-left: 500px;
-	padding-right: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 .button {
 	margin-top: 40px;
