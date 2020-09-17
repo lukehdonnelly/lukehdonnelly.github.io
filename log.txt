@@ -7,3 +7,4 @@ added a homepage
 added be the change project
 changed title of homepage
 centered the homepage text
+formatted mobile version
